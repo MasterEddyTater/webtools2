@@ -1,0 +1,19 @@
+p,
+li {
+  color: rgb(21, 124, 0);
+  font-family: "Courier New", Courier, monospace;
+}
+h2,
+h1 {
+  color: rgb(11, 65, 0);
+  font-family: "Courier New", Courier, monospace;
+}
+body {
+  background-color: rgb(0, 0, 0);
+}
+a:link {
+  color: rgb(11, 65, 0);
+}
+a:visited {
+  color: rgb(245, 57, 57);
+}
